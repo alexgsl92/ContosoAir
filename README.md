@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/alejandroguadarrama0914/b014864f-e780-4962-98f0-c6212ec986f8/c090571a-56af-45e6-86cc-e47731ad148e/_apis/work/boardbadge/c6f89fdd-9e83-47cb-aba6-c5305223b30a)](https://dev.azure.com/alejandroguadarrama0914/b014864f-e780-4962-98f0-c6212ec986f8/_boards/board/t/c090571a-56af-45e6-86cc-e47731ad148e/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
